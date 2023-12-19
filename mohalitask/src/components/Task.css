@@ -1,0 +1,49 @@
+.main_wrapper{
+    margin-top: 20px;
+}
+.listing-button{
+    margin-bottom: 5px;
+}
+.btn{
+    background-color: #835b5b;
+    border: 1px solid #1c191c;
+    color: #fff;
+    padding: 6px;
+    margin-right: 5px;
+    min-width: 80px;
+    border-radius: 5px;
+}
+table{
+    width: 100%;
+}
+.listing-wrapper{
+    display: flex;
+    align-items: center;
+    margin: 0 0 2px 0;
+    padding: 5px 10px;
+    border-radius: 5px;
+    background-color: greenyellow;
+    border: 2px solid #fff;
+    height: 31px;
+}
+.border-list{
+    border: 2px solid green;
+}
+.listing{
+    display: flex;
+    flex:1;
+}
+.tablehead{
+    margin-bottom: 0;
+    background-color: #cbd795;
+}
+.inputcheck{
+    justify-content: space-between;
+    margin: 0 3px 0 0;
+}
+.listing-check{
+    width: 85px;
+}
+.btn-delete{
+    min-width: 55px;
+}
